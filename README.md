@@ -9,8 +9,8 @@ C:\Users\:user\Saved Games\Respawn\Apex\local\videoconfig.txt
 Steam launch options: `-dev -novid`
 
 Keyboard: GMMK Pro L+F Gateron Yellows / L+F GateronInk Blacks on Stabilised Keys and Esc \
-Mouse: Razer Viper Mini @ 1600dpi 1000Hz \
-Mousepad: SteelSeries QCK Edge XL \
+Mouse: Razer DeathAdder V2 Pro Wireless @ 1600dpi 1000Hz \
+Mousepad: Glorious 3XL Stealth Black \
 
 System:
 
@@ -18,7 +18,7 @@ System:
 Operating System
 	Windows 10 Pro 64-bit
 CPU
-	AMD Ryzen 7 3700X	50 °C
+	AMD Ryzen 7 3700X (Ryzen Master OC)
 	Matisse 7nm Technology
 RAM
 	32.0GB Dual-Channel Unknown @ 1583MHz (16-18-18-38)
